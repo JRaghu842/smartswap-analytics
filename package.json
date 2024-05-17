@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/analytics",
-  "description": "Uniswap analytics",
-  "repository": "https://github.com/Uniswap/analytics",
+  "name": "smartswap-analytics",
+  "description": "smartswap analytics",
+  "repository": "https://github.com/JRaghu842/smartswap-analytics.git",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
